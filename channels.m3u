@@ -3,9 +3,6 @@
 #EXTINF:-1 tvg-id="AdultSwimEast.us" tvg-logo="https://iptv-curated.pages.dev/logos/AdultSwimEast.us.png" ,Adult Swim
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
 
-#EXTINF:-1 tvg-id="AnimeAllDay.us" tvg-logo="https://iptv-curated.pages.dev/logos/AnimeAllDay.us.png" ,Anime All Day
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5812b7d3249444e05d09cc49&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=830&terminate=false&userId=
-
 #EXTINF:-1 tvg-id="AFTV.us" tvg-logo="https://iptv-curated.pages.dev/logos/AFV.us.png" ,AFV
 https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 
