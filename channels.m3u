@@ -9,16 +9,16 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d
 #EXTINF:-1 tvg-id="AFTV.us" tvg-logo="https://iptv-curated.pages.dev/logos/AFV.us.png" ,AFV
 https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AdultSwimInfomercials.us" tvg-logo="https://iptv-curated.pages.dev/logos/AdultSwimInfomercials.us.png" ,Adult Swim Infomercials
+#EXTINF:-1 tvg-id="AdultSwimInfomercials.us" tvg-logo="https://iptv-curated.pages.dev/logos/AdultSwimInfomercials.us.png" ,Infomercials
 https://adultswim-vodlive.cdn.turner.com/live/infomercials/stream_de.m3u8
 
-#EXTINF:-1 tvg-id="AdultSwimLastStreamOnTheLeft.us" tvg-logo="https://iptv-curated.pages.dev/logos/AdultSwimLastStreamOnTheLeft.us.png" ,Adult Swim Last Stream On The Left
+#EXTINF:-1 tvg-id="AdultSwimLastStreamOnTheLeft.us" tvg-logo="https://iptv-curated.pages.dev/logos/AdultSwimLastStreamOnTheLeft.us.png" ,Last Stream On The Left
 https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream_de.m3u8
 
-#EXTINF:-1 tvg-id="AdultSwimRobotChicken.us" tvg-logo="https://iptv-curated.pages.dev/logos/AdultSwimRobotChicken.us.png" ,Adult Swim Robot Chicken
+#EXTINF:-1 tvg-id="AdultSwimRobotChicken.us" tvg-logo="https://iptv-curated.pages.dev/logos/AdultSwimRobotChicken.us.png" ,Robot Chicken
 https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream_de.m3u8
 
-#EXTINF:-1 tvg-id="AdultSwimTheEricAndreShow.us" tvg-logo="https://iptv-curated.pages.dev/logos/AdultSwimTheEricAndreShow.us.png" ,Adult Swim The Eric Andre Show
+#EXTINF:-1 tvg-id="AdultSwimTheEricAndreShow.us" tvg-logo="https://iptv-curated.pages.dev/logos/AdultSwimTheEricAndreShow.us.png" ,The Eric Andre Show
 https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_de.m3u8
 
 
