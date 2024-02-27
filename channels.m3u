@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AdultSwimEast.us" tvg-logo="https://iptv.klabsdev.com/Art/AdultSwim" ,Adult Swim
+#EXTINF:-1 tvg-id="AdultSwimEast.us" tvg-logo="https://iptv-curated.pages.dev/logos/AdultSwimEast.us.png" ,Adult Swim
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
