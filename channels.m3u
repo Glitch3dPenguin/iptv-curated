@@ -6,14 +6,20 @@ https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_51
 #EXTINF:-1 tvg-id="AnimeAllDay.us" tvg-logo="https://iptv-curated.pages.dev/logos/AnimeAllDay.us.png" ,Anime All Day
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5812b7d3249444e05d09cc49&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=830&terminate=false&userId=
 
-#EXTINF:-1 tvg-id="AFTV.us" tvg-logo="https://iptv-curated.pages.dev/logos/AFTV.us.png" ,AFTV
+#EXTINF:-1 tvg-id="AFTV.us" tvg-logo="https://iptv-curated.pages.dev/logos/AFV.us.png" ,AFV
 https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AdultSwimInfomercials.us" tvg-logo="https://iptv-curated.pages.dev/logos/AdultSwimInfomercials.png" ,Adult Swim Infomercials
+https://adultswim-vodlive.cdn.turner.com/live/infomercials/stream_de.m3u8
 
+#EXTINF:-1 tvg-id="AdultSwimLastStreamOnTheLeft.us" tvg-logo="https://iptv-curated.pages.dev/logos/AdultSwimLastStreamOnTheLeft.us.png" ,Adult Swim Last Stream On The Left
+https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream_de.m3u8
 
+#EXTINF:-1 tvg-id="AdultSwimRobotChicken.us" tvg-logo="https://iptv-curated.pages.dev/logos/AdultSwimRobotChicken.us.png" ,Adult Swim Robot Chicken
+https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream_de.m3u8
 
-
-
+#EXTINF:-1 tvg-id="AdultSwimTheEricAndreShow.us" tvg-logo="https://iptv-curated.pages.dev/logos/AdultSwimTheEricAndreShow.us.png" ,Adult Swim The Eric Andre Show
+https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_de.m3u8
 
 
 
