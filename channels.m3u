@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AdultSwimEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/512px-Adult_Swim_2003_logo.svg.png" group-title="Entertainment",Adult Swim East (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="AdultSwimEast.us" tvg-logo="https://iptv.klabsdev.com/Art/AdultSwim" ,Adult Swim
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
